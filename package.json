@@ -1,7 +1,7 @@
 {
   "name": "workadventure-map-starter-kit",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.json",
   "license": "MIT",
   "devDependencies": {
     "@workadventure/iframe-api-typings": "^1.5.5",
